@@ -45,6 +45,7 @@ public class Extent_Reports {
 	
 	
 	//5
+	//6
 	public static void flushreport() {
 		extentreport.flush();
 	}
